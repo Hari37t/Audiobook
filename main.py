@@ -38,9 +38,9 @@ def speak(text):
 #print(text)
 #speak(text)
 
-text =pdfread("C:\\Users\\Harihara.Manigandan\\Downloads\\progit.pdf")
-print(text)
-speak(text)
+#text =pdfread("C:\\Users\\Harihara.Manigandan\\Downloads\\progit.pdf")
+#print(text)
+#speak(text)
 
 
 
