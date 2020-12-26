@@ -34,9 +34,9 @@ def speak(text):
     speaker.runAndWait()
 
 
-#text =wordread("sainapse.docx")
-#print(text)
-#speak(text)
+text =wordread("sainapse.docx")
+print(text)
+speak(text)
 
 text =pdfread("C:\\Users\\Harihara.Manigandan\\Downloads\\progit.pdf")
 print(text)
